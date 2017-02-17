@@ -237,6 +237,8 @@
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs"
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20170217182149_Initial.cs"
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20170217182149_Initial.Designer.cs"
+"c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20170217193837_Rating.cs"
+"c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\20170217193837_Rating.Designer.cs"
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Data\Migrations\ApplicationDbContextModelSnapshot.cs"
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Models\ApplicationUser.cs"
 "c:\Users\dev0\documents\visual studio 2015\Projects\MvcMovie\src\MvcMovie\Models\Movie.cs"
